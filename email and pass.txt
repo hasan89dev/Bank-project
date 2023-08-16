@@ -1,0 +1,4 @@
+bank application email and password:::
+
+email:    bank@gmail.com
+password: 1234
